@@ -1,4 +1,6 @@
 ### hi i'm ethan 👋
+I'm into designing systems and developing products that people care about 💖.
+
 
 <!--
 **EthanDebnath/EthanDebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +19,7 @@ Here are some ideas to get you started:
 
 ## Startup Founder & Software Engineer 👨‍💻
 
-I'm a startup founder and software engineer currently building an **AI-powered ed-tech learning platform** 🤖🎓 utilizing [OpenAI](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
-
-### Interests 🌟
-
-I'm into designing systems and developing products that people care about 💖.
+I'm a startup founder and software engineer currently building an **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented, experience for students. 🤖🎓 utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
 
 ## Portfolio 📁
 
