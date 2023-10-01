@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 
 ## Portfolio 📁
 
-### plutolearning.com (AI Ed-Tech Startup) 🌐
+### plutolearning.com (AI Ed-Tech Startup) 🚀 🚀 🚀 
 - **Technologies**: React, Go, Node.js, Figma, Tailwind CSS
 - **Date**: Apr '23
 
-### stocklit.co (HackSMU ’23 Best FinTech Winner) 🏆
+### stocklit.co (HackSMU ’23 Best FinTech Winner) 🏆 📈
 - **Technologies**: Python, MongoDB, Docker, Google Cloud
 - **Date**: Sep '23
 
-### JetLax (American Airlines Jetlag-Free Travel App) ✈️
+### JetLax (American Airlines Jetlag-Free Travel App) ✈️ 🛌🏾
 - **Technologies**: React Native, TypeScript, Express
 - **Date**: Jan '23
 
-### petrolytics.tech (US Oil Prod. Heatmap & Stocks) 🛢️
+### petrolytics.tech (US Oil Prod. Heatmap & Stocks) 🛢️ 🗺️
 - **Technologies**: Data Visualization, Folium, BeautifulSoup
 - **Date**: Nov '22
 
