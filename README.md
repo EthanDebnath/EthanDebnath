@@ -1,13 +1,13 @@
-### hi i'm Ethan Debnath 👋
+# Hi i'm Ethan Debnath 👋
 
 I'm a startup founder and software engineer into designing systems and developing products that people care about 💖.
 
-I am currently building [Pluto Learning](https://plutolearning.com), **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented, experience for students utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
+I am currently building [Pluto Learning](https://plutolearning.com), **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented experience for students utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
 
 
 ## Portfolio 📁
 
-### [plutolearning.com (AI Ed-Tech Startup)](https://plutolearning.com) 🌐
+### [plutolearning.com (AI Ed-Tech Startup)](https://plutolearning.com) 🚀
 - **Technologies**: React, Go, Node.js, Figma, Tailwind CSS
 - **Date**: Apr 2023 - Present
 
@@ -23,7 +23,7 @@ I am currently building [Pluto Learning](https://plutolearning.com), **AI-powere
 - **Technologies**: Data Visualization, Folium, BeautifulSoup
 - **Date**: Nov 2023
 
-## Connect with me! 🌐
+## Connect with me! 
 
 <a href="https://www.linkedin.com/in/e-debnath/" style="margin-right:20px;"><img src="./linkedin.png" width="30" height="30"></a>
 <a href="https://instagram.com/ethandebnath7" style="margin-right:20px;"><img src="./Instagram_logo_2016.svg.webp" width="30" height="30"></a>
