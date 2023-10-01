@@ -4,12 +4,6 @@ I'm a startup founder and software engineer into designing systems and developin
 
 I am currently building [Pluto Learning](https://plutolearning.com), **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented, experience for students utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
 
-## Connect with me! 🌐
-
-<a href="https://www.linkedin.com/in/e-debnath/" style="margin-right:20px;"><img src="./linkedin.png" width="30" height="30"></a>
-<a href="https://instagram.com/ethandebnath7" style="margin-right:20px;"><img src="./Instagram_logo_2016.svg.webp" width="30" height="30"></a>
-<a href="#" style="margin-right:20px;"><img src="./X-logo.webp" width="30" height="30"></a>
-
 
 ## Portfolio 📁
 
@@ -33,4 +27,4 @@ I am currently building [Pluto Learning](https://plutolearning.com), **AI-powere
 
 <a href="https://www.linkedin.com/in/e-debnath/" style="margin-right:20px;"><img src="./linkedin.png" width="30" height="30"></a>
 <a href="https://instagram.com/ethandebnath7" style="margin-right:20px;"><img src="./Instagram_logo_2016.svg.webp" width="30" height="30"></a>
-<a href="#" style="margin-right:20px;"><img src="./X-logo.webp" width="30" height="30"></a>
+<a href="https://twitter.com/ethandebnath7" style="margin-right:20px;"><img src="./X-logo.webp" width="30" height="30"></a>
