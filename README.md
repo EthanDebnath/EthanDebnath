@@ -21,25 +21,28 @@ Here are some ideas to get you started:
 
 ## Portfolio 📁
 
-### plutolearning.com (AI Ed-Tech Startup) 🚀 🚀 🚀 
+### [plutolearning.com (AI Ed-Tech Startup)](https://plutolearning.com) 🌐
 - **Technologies**: React, Go, Node.js, Figma, Tailwind CSS
-- **Date**: Apr '23
+- **Date**: Apr 2023 - Present
 
-### stocklit.co (HackSMU ’23 Best FinTech Winner) 🏆 📈
+### [stocklit.co (HackSMU ’23 Best FinTech Winner)](http://www.stocklit.co) 🏆
 - **Technologies**: Python, MongoDB, Docker, Google Cloud
-- **Date**: Sep '23
+- **Date**: Sep 2023
 
-### JetLax (American Airlines Jetlag-Free Travel App) ✈️ 🛌🏾
+### [JetLax (American Airlines Jetlag-Free Travel App)](https://github.com/EthanDebnath/jetlax) ✈️
 - **Technologies**: React Native, TypeScript, Express
-- **Date**: Jan '23
+- **Date**: Jan 2023
 
-### petrolytics.tech (US Oil Prod. Heatmap & Stocks) 🛢️ 🗺️
+### [petrolytics.tech (US Oil Prod. Heatmap & Stocks)](http://petrolytics.tech/) 🛢️
 - **Technologies**: Data Visualization, Folium, BeautifulSoup
-- **Date**: Nov '22
-
+- **Date**: Nov 2023
 
 ## Connect with me! 🌐
 
 <a href="https://www.linkedin.com/in/e-debnath/"><img src="./Instagram_logo_2016.svg.webp" width="30" height="30"></a>
 <a href="https://instagram.com/ethandebnath7"><img src="./linkedin.png" width="30" height="30"></a>
 <a href="#"><img src="path/to/x-icon.png" width="30" height="30"></a>
+
+<a href="https://www.linkedin.com/in/e-debnath/" style="margin-right:20px;"><img src="./linkedin.png" width="30" height="30"></a>
+<a href="https://instagram.com/ethandebnath7" style="margin-right:20px;"><img src="./Instagram_logo_2016.svg.webp" width="30" height="30"></a>
+<a href="#" style="margin-right:20px;"><img src="./X-logo.webp" width="30" height="30"></a>
