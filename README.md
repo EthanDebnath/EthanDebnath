@@ -25,14 +25,23 @@ I'm a startup founder and software engineer currently building an **AI-powered e
 
 ### plutolearning.com (AI Ed-Tech Startup) 🌐
 - **Technologies**: React, Go, Node.js, Figma, Tailwind CSS
-- **Date**: April 2023
+- **Date**: Apr '23
 
 ### stocklit.co (HackSMU ’23 Best FinTech Winner) 🏆
 - **Technologies**: Python, MongoDB, Docker, Google Cloud
-- **Date**: September 2023
+- **Date**: Sep '23
 
 ### JetLax (American Airlines Jetlag-Free Travel App) ✈️
 - **Technologies**: React Native, TypeScript, Express
+- **Date**: Jan '23
 
 ### petrolytics.tech (US Oil Prod. Heatmap & Stocks) 🛢️
 - **Technologies**: Data Visualization, Folium, BeautifulSoup
+- **Date**: Nov '22
+
+
+## Socials 🌐
+
+- **LinkedIn**: [e-debnath](https://www.linkedin.com/in/e-debnath/)
+- **Instagram**: [@ethandebnath7](https://instagram.com/ethandebnath7)
+- **X**: @ethandebnath7
