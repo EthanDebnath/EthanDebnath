@@ -1,7 +1,8 @@
-### hi i'm ethan 👋
-I'm into designing systems and developing products that people care about 💖.
+### hi i'm Ethan Debnath 👋
 
+I'm a startup founder and software engineer into designing systems and developing products that people care about 💖.
 
+I am currently building an **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented, experience for students. 🤖🎓 utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
 <!--
 **EthanDebnath/EthanDebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Startup Founder & Software Engineer 👨‍💻
-
-I'm a startup founder and software engineer currently building an **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented, experience for students. 🤖🎓 utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
 
 ## Portfolio 📁
 
@@ -40,8 +38,8 @@ I'm a startup founder and software engineer currently building an **AI-powered e
 - **Date**: Nov '22
 
 
-## Socials 🌐
+## Connect with me! 🌐
 
-[![LinkedIn](./Instagram_logo_2016.svg.webp)](https://www.linkedin.com/in/e-debnath/)
-[![Instagram](./linkedin.png)](https://instagram.com/ethandebnath7)
-[![X](path/to/x-icon.png)](#)
+<a href="https://www.linkedin.com/in/e-debnath/"><img src="./Instagram_logo_2016.svg.webp" width="30" height="30"></a>
+<a href="https://instagram.com/ethandebnath7"><img src="./linkedin.png" width="30" height="30"></a>
+<a href="#"><img src="path/to/x-icon.png" width="30" height="30"></a>
