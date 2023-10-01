@@ -42,6 +42,6 @@ I'm a startup founder and software engineer currently building an **AI-powered e
 
 ## Socials 🌐
 
-- **LinkedIn**: [e-debnath](https://www.linkedin.com/in/e-debnath/)
-- **Instagram**: [@ethandebnath7](https://instagram.com/ethandebnath7)
-- **X**: @ethandebnath7
+[![LinkedIn](./Instagram_logo_2016.svg.webp)](https://www.linkedin.com/in/e-debnath/)
+[![Instagram](./linkedin.png)](https://instagram.com/ethandebnath7)
+[![X](path/to/x-icon.png)](#)
