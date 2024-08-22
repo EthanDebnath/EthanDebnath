@@ -1,4 +1,4 @@
-# Hi i'm Ethan Debnath 👋
+# Hi i'm Ethan 👋
 
 I'm a startup founder and software engineer into designing systems and developing products that people care about 💖.
 
