@@ -11,7 +11,7 @@ I am currently building [Pluto Learning](https://plutolearning.com), an **AI-pow
 - **Technologies**: React, Go, Node.js, Figma, Tailwind CSS
 - **Date**: Apr 2023 - Present
 
-### [[stocklit.co](https://stockanalyzer.streamlit.app/) (HackSMU ’23 Best FinTech Winner)](http://www.stocklit.co) 🏆
+### [Stocklit (HackSMU ’23 Best FinTech Winner)](https://stockanalyzer.streamlit.app/) 🏆
 - **Technologies**: Python, MongoDB, Docker, Google Cloud
 - **Date**: Sep 2023
 
