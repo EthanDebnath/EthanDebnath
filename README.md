@@ -7,9 +7,6 @@ I'm a startup founder and software engineer into designing systems and developin
 
 ## Portfolio 📁
 
-### [plutolearning.com (AI Ed-Tech Startup)](https://plutolearning.com) 🚀
-- **Technologies**: React, Go, Node.js, Figma, Tailwind CSS
-- **Date**: Apr 2023 - Present
 
 ### [Stocklit (HackSMU ’23 Best FinTech Winner)](https://stockanalyzer.streamlit.app/) 🏆
 - **Technologies**: Python, MongoDB, Docker, Google Cloud
