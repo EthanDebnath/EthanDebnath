@@ -2,7 +2,7 @@
 
 I'm a startup founder and software engineer into designing systems and developing products that people care about 💖.
 
-I am currently building [Pluto Learning](https://plutolearning.com), an **AI-powered ed-tech learning platform** that facilitates study groups, habits, and elevates resources all in a seamless end-to-end, college-oriented experience for students utilizing [OpenAI's GPT-4](https://openai.com) and [Azure Cognitive Search](https://azure.microsoft.com/en-us/services/search/).
+
 
 
 ## Portfolio 📁
